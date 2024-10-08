@@ -10,3 +10,4 @@ internal class CashFlowDbContext : DbContext
     public DbSet<Expense> Expenses { get; set; }
     
 }
+ 
